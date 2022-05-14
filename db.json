@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Categoria 1",
+      "sector": "Vestuário"
+    },
+    {
+      "id": 2,
+      "description": "Categoria 2",
+      "sector": "Cama, mesa e banho"
+    },
+    {
+      "id": 3,
+      "description": "Categoria 3",
+      "sector": "Beleza"
+    },
+    {
+      "id": 4,
+      "description": "Categoria 4",
+      "sector": "Vestuário"
+    },
+    {
+      "id": 5,
+      "description": "Categoria 5",
+      "sector": "Decoração"
+    }
+  ]
+}
